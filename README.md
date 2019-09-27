@@ -1,6 +1,6 @@
 # Python-API-challenge: This challenge has two parts named, Weatherpy and vacationpy.
 
-### Part II - WeatherPy:
+### Part I - WeatherPy:
 The aim is to create a representative model of weather across world (500+) cities.The Python script utilizes python library, citypy,  makes API calls to OpenWeatherMap to retrieve weather data. 
 The first objective is to build a series of scatter plots to showcase the following relationships:
 * Temperature (F) vs. Latitude
